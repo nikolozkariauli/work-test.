@@ -25,4 +25,3 @@ print("hello" + name )
 age = int(input("10"))
 future_age = age + 10
 print("20" + str(future_age) + "10")
-
