@@ -4,7 +4,7 @@
 
 # Binary (ბინარული) არის რიცხვთა სისტემა, რომელიც იყენებს მხოლოდ ორ ციფრს: 0 და 1
 
-# data conversation ფუნქცია არის: str, int, float, bool, list.
+# data conversation ფუნქცია არის: str, int, float,
 
 is_student = ("false")
 print(is_student == false)
@@ -17,6 +17,10 @@ print(is_super_gela != true)
 # ვეფხვისტყაოსნიდან 1 აბზაცი 10000010 10100000 00100000 10100011 10101110 10100101 00100000
 
 user_input = input("500")
-number = int(user_input)
 number > 18
-print("ჩემი რიცხვი ნაკლებია 500-ზე")
+print("user_input > 500")
+
+name = input("nikolozi")
+print("nikolozi == Aleksandre")
+
+print( True and False or True and True or True and False)
