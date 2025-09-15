@@ -23,4 +23,3 @@ print("user_input > 500")
 name = input("nikolozi")
 print("nikolozi == Aleksandre")
 
-print( True and False or True and True or True and False)
