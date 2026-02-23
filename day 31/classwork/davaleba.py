@@ -42,8 +42,8 @@
 
 
 
-def greet_names(names):
-    for name in names:
-     print("გამარჯობა nikoloz")
-    name_list = ["ნინო", "გიორგი", "მარიამი", "ლევანი"]
-    greet_names(name_list)
+#7)def greet_names(names):
+#    for name in names:
+#     print("გამარჯობა nikoloz")
+#    name_list = ["ნინო", "გიორგი", "მარიამი", "ლევანი"]
+#    greet_names(name_list)
