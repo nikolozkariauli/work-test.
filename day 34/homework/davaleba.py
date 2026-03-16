@@ -16,9 +16,14 @@
 
 
 
-def print_last_char(text):
-    print(text-1)
+#def print_last_char(text):
+#    print(text-1)
 
 
-print_last_char("გამარჯობა")
-print_last_char("კომპიუტერი")
+#print_last_char("გამარჯობა")
+#print_last_char("კომპიუტერი")
+
+
+
+
+#return გამოიყენება ფუნქციებში იმისთვის, რომ ფუნქციამ შედეგი უკან "დააბრუნოს".
