@@ -1,0 +1,39 @@
+body {
+      background: #fff;
+      font-family: Arial, sans-serif;
+    }
+    .hello {
+      text-align: left;
+      text-decoration: underline;
+      text-transform: uppercase;
+      color: red;
+    }
+    .world {
+      text-align: right;
+      text-decoration: line-through;
+      text-transform: lowercase;
+      color: blue;
+    }
+    .goal {
+      text-align: center;
+      text-decoration: overline;
+      text-transform: capitalize;
+      color: green;
+    }
+     .best {
+      text-align: left;
+      text-decoration: underline wavy orange;
+      text-transform: uppercase;
+      color: purple;
+    }
+    .one {
+      text-align: right;
+      text-decoration: none;
+      text-transform: lowercase;
+      color: brown;
+    }
+
+
+
+
+    

@@ -1,0 +1,38 @@
+text-deqoration {
+      text-decoration: underline;
+    }
+    p {
+      text-decoration: overline;
+    }
+    .to do {
+      text-decoration: line-through;
+    }
+    a {
+      text-decoration: none;
+    }
+text-shadow-
+
+    h1 {
+      text-shadow: 2px 2px 5px gray; 
+    }
+    p {
+      text-shadow: -3px -3px 4px red; 
+  
+    }
+    p {
+      text-shadow: 1px 1px 2px black, -1px -1px 2px blue;
+text-trasform
+
+
+    h1 {
+      text-transform: uppercase;
+    }
+    p {
+      text-transform: capitalize;
+    }
+    .to do {
+      text-transform: lowercase;
+    }
+
+
+    

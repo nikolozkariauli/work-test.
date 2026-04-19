@@ -1,0 +1,62 @@
+ .underlined {
+      text-decoration: underline;
+    }
+    .no-underline {
+      text-decoration: none;
+    }
+
+
+
+
+    h1 {
+      text-shadow: -3px -3px 5px gray;
+       }
+
+
+
+     .uppercase {
+      text-transform: uppercase;
+    }
+    .lowercase {
+      text-transform: lowercase;
+    }
+    .capitalize {
+      text-transform: capitalize;
+    }
+    
+    
+
+
+
+     body {
+      background-color: #f5f5f5;
+      margin: 20px;
+    }
+    h1 {
+      font-family: 'Georgia', serif;
+      color: #2c3e50;
+    }
+    h2 {
+      font-family: 'Arial', sans-serif;
+      color: #16a085;
+    }
+    p {
+      font-family: 'Courier New', monospace;
+      color: #34495e;
+    }
+    .quote {
+      font-family: 'Times New Roman', serif;
+      font-style: italic;
+      color: #7f8c8d;
+    }
+     .footer {
+      font-family: 'Verdana', sans-serif;
+      font-size: 14px;
+      color: #95a5a6;
+    }
+
+
+
+
+
+    
