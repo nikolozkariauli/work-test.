@@ -1,0 +1,33 @@
+#first {
+      color: rgb(0, 0, 0);
+      font-family: fantasy;
+    }
+
+     body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #000, #333);
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      padding: 50px;
+      background: #111;
+    }
+    header h1 {
+      font-size: 3em;
+      color: #fdd835;
+      text-shadow: 0 0 20px #fdd835;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    img {
+      width: 400px;
+
+  border-radius: 15px;
+      margin: 30px auto;
+      box-shadow: 0 0 30px #fdd835;
+
+    }
+   
