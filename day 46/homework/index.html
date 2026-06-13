@@ -1,0 +1,149 @@
+display: flex; გამოიყენება CSS-ში ელემენტების მოქნილი (flexible) განლაგებისთვის.
+
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <title>Flex Example</title>
+    <style>
+        .container {
+            display: flex;
+        }
+
+        .box1 {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+        }
+
+        .box2 {
+            width: 100px;
+            height: 100px;
+            background-color: blue;
+        }
+
+        .box3 {
+            width: 100px;
+            height: 100px;
+            background-color: green;
+        }
+
+        .box4 {
+            width: 100px;
+            height: 100px;
+            background-color: orange;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="box1"></div>
+        <div class="box2"></div>
+        <div class="box3"></div>
+        <div class="box4"></div>
+    </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GOA - Goal Oriented Academy</title>
+
+    <style>
+        body{
+            margin:0;
+            font-family: Arial, sans-serif;
+            background-color:#f4f4f4;
+        }
+
+        header{
+            background-color:green;
+            color:white;
+            text-align:center;
+            padding:20px;
+        }
+
+        .container{
+            display:flex;
+            justify-content:center;
+            margin:30px;
+        }
+
+        .card{
+            width:250px;
+            height:200px;
+            background-color:white;
+            border:2px solid green;
+            border-radius:10px;
+            text-align:center;
+            padding:15px;
+        }
+
+        footer{
+            background-color:green;
+            color:white;
+            text-align:center;
+            padding:15px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>GOA - Goal Oriented Academy</h1>
+        <p>საუკეთესო აკადემია პროგრამირების შესასწავლად</p>
+    </header>
+
+    <div class="container">
+
+        <div class="card">
+            <h2>პროგრამირება</h2>
+            <p>ისწავლე HTML, CSS, JavaScript და სხვა ტექნოლოგიები.</p>
+        </div>
+
+        <div class="card">
+            <h2>მეგობრული გარემო</h2>
+            <p>GOA-ში შეხვდები მოტივირებულ და მიზანდასახულ მოსწავლეებს.</p>
+        </div>
+
+        <div class="card">
+            <h2>განვითარება</h2>
+            <p>შეიძინე პრაქტიკული ცოდნა და გახდი წარმატებული დეველოპერი.</p>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>© 2026 GOA - Goal Oriented Academy</p>
+    </footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
