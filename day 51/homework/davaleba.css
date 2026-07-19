@@ -1,0 +1,12 @@
+  p {
+            background-color: black;
+            color: white;
+        }
+
+        .odd {
+            height: 300px;
+        }
+
+        .even {
+            height: 250px;
+        }
